@@ -1,5 +1,6 @@
 #!/bin/sh
 
 echo "Hello World !!"
-echo "branch_20230902"
-echo "branch commit 2"
+echo "revert to main branch"
+echo "date:2023-09-03"
+
